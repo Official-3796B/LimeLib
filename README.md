@@ -137,6 +137,14 @@ Planned expansions for LimeLib include:
 
 ---
 
+## Installation
+
+1. Follow the steps on Lemlib's official documentation for downloading and installing Lemlib (https://lemlib.readthedocs.io/en/stable/)
+2. Download the latest Limelib release, and extract it
+3. From within this folder, copy the /src and /include folders into your project folder, and give it permission to override existing files.
+4. Alternatively, you can just copy and paste the code from the extracted files into your Lemlib project.
+5. That's it! The rest is easy, and more instructions will be provided if and when necessary. 
+
 ## License
 
 This project follows the same open-source philosophy as LemLib and is intended for use by robotics teams developing competitive software.
